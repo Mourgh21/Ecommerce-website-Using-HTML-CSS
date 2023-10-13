@@ -1,4 +1,4 @@
-# Ecommerce website Using HTML & CSS
+# Ecommerce Landing Page Using HTML & CSS
 
 👇
 
